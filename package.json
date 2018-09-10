@@ -1,0 +1,21 @@
+{
+  "name": "bootstrap4",
+  "version": "1.0.0",
+  "description": "mongo",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "node",
+    "mongo"
+  ],
+  "author": "Inna",
+  "license": "ISC",
+  "devDependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mongoose": "^5.2.14"
+  }
+}
